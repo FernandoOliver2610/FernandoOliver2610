@@ -29,7 +29,7 @@
 
 ## 🚀 Projetos em Destaque
 
-🔹 [Projeto 1 - SQL para Análise de Negócios]
+🔹 [Projeto 1 - SQL para Análise de Negócios](https://github.com/FernandoOliver2610/Projeto03.git)
 
 
 🔹 [Projeto 2 - Dashboard no Power BI](https://github.com/FernandoOliver2610/Projeto02.git)  
@@ -45,7 +45,7 @@
 ## 📫 Contato
 
 🔗 [LinkedIn](https://www.linkedin.com/in/fernando-costa-de-oliveira-97b124348)  
-📧 E-mail: seuemail@email.com
+📧 E-mail: sobretudoxp@gmail.com
 
 ---
 
