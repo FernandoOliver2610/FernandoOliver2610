@@ -29,7 +29,7 @@
 
 ## 🚀 Projetos em Destaque
 
-🔹 [[Projeto 1 (https://github.com/FernandoOliver2610/Projeto02.git) - Análise de Dados com Python](#)  
+🔹 [https://github.com/FernandoOliver2610/Projeto02.git] 
 🔹 [Projeto 2 - Dashboard no Power BI](#)  
 🔹 [Projeto 3 - SQL para Análise de Negócios](#)
 
