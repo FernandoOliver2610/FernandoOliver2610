@@ -30,8 +30,15 @@
 ## 🚀 Projetos em Destaque
 
 🔹 [Projeto 1 -] 
+
+
 🔹 [Projeto 2 - Dashboard no Power BI](https://github.com/FernandoOliver2610/Projeto02.git)  
-🔹 [Projeto 3 - SQL para Análise de Negócios](#)
+
+
+
+🔹 [Projeto 4-](https://github.com/FernandoOliver2610/Projeto04.git)
+
+
 
 ---
 
